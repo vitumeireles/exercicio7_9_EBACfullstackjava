@@ -1,4 +1,4 @@
-Atividade proposta pela EBAC no módulo 7 de integração de Javascript com HTML.
+<h1>Atividade proposta pela EBAC no módulo 7 de integração de Javascript com HTML.</h1>
 
 Proposta da atividade:
 1) Crie um formulário HTML que possua dois campos numéricos:
