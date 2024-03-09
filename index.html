@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratique 7.9</title>
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <div class="container">
+        <h1> Teste se Campo B > Campo A</h1>
+        <h5>Digite números nos dois campos e teste o valor dos mesmos.</h5>
+            <form id="teste-valores">
+                <input type="number" id="campo-A" required placeholder="Campo A" />
+                <input type="number" id="campo-B" required placeholder="Campo B" />
+                <p class="error-mesage">
+                    O  Campo B deve ser maior que o Campo A.
+                </p>
+                <button id="envio" type="submit">Teste</button>
+            </form>
+            <p class="success-message"> </p>
+    </div>
+</body>
+<script src="./main.js"></script>
+</html>
